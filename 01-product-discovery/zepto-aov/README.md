@@ -58,6 +58,8 @@ The research focused on active users in Bengaluru's technology corridors, includ
 - Interview quotations and detailed evidence need to be documented to substantiate qualitative claims.
 - Financial assumptions require traceable sources or calculations.
 
+**Evidence availability:** The original assignment reports 45 survey responses and 10 user interviews. However, respondent-level survey data and detailed interview notes or transcripts are not currently available for independent verification. The reported findings are therefore presented as original assignment findings rather than independently validated evidence. No interview quotations have been reconstructed or invented. Further validation would require reviewing the underlying responses and conducting additional user research where necessary.
+
 ## 4. Key Research Findings
 
 ### Finding 1: Mission-based shopping
