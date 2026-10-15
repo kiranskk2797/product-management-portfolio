@@ -35,6 +35,20 @@ Frontend prototype developed as an assignment. Commercial launch and user valida
 - Conduct usability testing with prospective travelers.
 - Measure search-to-property-view conversion.
 - Evaluate whether users can find suitable stays efficiently.
+
+## Project Links
+
+- **Live Prototype:** https://vijaya-stays.vercel.app/
+- **Source Code:** https://github.com/kiranskk2797/vijaya-stays
+
+## Project Type
+
+Frontend prototype developed as part of a project assignment.
+
+## Current Status
+
+Deployed prototype available for demonstration. User validation, commercial launch and business impact have not been established.
+
 - Test the usefulness of attraction discovery and trip-planning features.
 
 ## Key Learning
