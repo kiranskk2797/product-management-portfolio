@@ -202,6 +202,22 @@ The upgrade should appear only when it is likely to offer meaningful value to th
 These are proposed product requirements, not implemented functionality.
 
 ### Prioritization limitations
+### RICE Scoring Rubric
+
+The scores below are preliminary estimates for comparing the three proposed solutions. They are not measured business outcomes.
+
+| Dimension | Proposed scoring approach |
+|---|---|
+| Reach (1–10) | Estimated proportion of the target segment exposed to the feature during a defined period. A score of 10 represents the highest expected reach among the options being compared. |
+| Impact (1–10) | Expected effect on the target behavior and primary KPI, Average Order Value (AOV). Higher scores indicate a stronger expected effect. |
+| Confidence (1–10) | Confidence in the reach and impact estimates, based on available research and supporting evidence. A score of 10 represents very high confidence. |
+| Effort (1–10) | Relative implementation effort, including engineering, design, analytics and operational dependencies. A score of 10 represents the greatest effort. |
+
+**Important limitation:** The original assignment did not define these scales or provide sufficient evidence to validate every score. The rubric above is a proposed improvement, not a record of the original scoring method.
+
+Before using these scores to make an implementation decision, validate reach using product data, support impact estimates with research or experiments, document the evidence behind confidence scores, and estimate effort with the relevant delivery team.
+
+The current ranking should therefore be treated as a directional hypothesis, not a validated investment decision.
 
 The RICE inputs are estimates from the original assignment, not measured values.
 
