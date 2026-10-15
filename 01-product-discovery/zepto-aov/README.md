@@ -147,14 +147,14 @@ The original assignment scores the three proposed solutions as follows.
 | Solution | Reach | Impact | Confidence | Effort | RICE score |
 |---|---:|---:|---:|---:|---:|
 | One-Tap Pack Size Upgrade | 9 | 9 | 8 | 4 | 162 |
-| Multi-Tier Milestone Rewards | 8 | 8 | 7 | 6 | 74.7 |
+| Milestone Rewards | 8 | 8 | 7 | 6 | 74.7 |
 | Contextual Mission Kits | 5 | 7 | 6 | 8 | 26.3 |
 
 **Formula:** RICE = (Reach × Impact × Confidence) / Effort
 
 ### RICE Scoring Rubric
 
-The scores are preliminary estimates, not measured business outcomes.
+These scores are preliminary estimates, not measured business outcomes.
 
 | Dimension | Proposed scoring approach |
 |---|---|
@@ -168,7 +168,7 @@ The scores are preliminary estimates, not measured business outcomes.
 | Solution | Initial rationale | Key uncertainty |
 |---|---|---|
 | One-Tap Pack Size Upgrade | Fits into the existing cart journey and aims to increase item value without additional browsing. | Eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
-| Multi-Tier Milestone Rewards | Aims to encourage additional spending among customers who respond to incentives. | Incremental spending, reward costs and contribution margin impact are unknown. |
+| Milestone Rewards | Aims to encourage additional spending among customers who respond to incentives. | Incremental spending, reward costs and contribution margin impact are unknown. |
 | Contextual Mission Kits | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation effort are unvalidated. |
 
 These explanations describe product hypotheses; they do not validate the numerical inputs.
