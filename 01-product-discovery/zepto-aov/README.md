@@ -152,6 +152,8 @@ The original assignment scores the three proposed solutions as follows.
 
 **Formula:** RICE = (Reach × Impact × Confidence) / Effort
 
+**Methodology note:** The scores shown above are the original assignment estimates. The accompanying 1–10 rubric is a proposed custom prioritization scale, not a validated or directly comparable implementation of conventional RICE. Reach, impact, confidence and effort have not been independently measured. The scores are retained for transparency and should be recalibrated using consistent definitions, product data and delivery-team estimates before an implementation decision.
+
 ### RICE Scoring Rubric
 
 These scores are preliminary estimates, not measured business outcomes.
