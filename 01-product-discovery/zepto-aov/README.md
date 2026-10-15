@@ -1,49 +1,267 @@
 
 # Zepto — Increasing Average Order Value (AOV)
 
-**Project type:** Product growth case study  
-**Status:** Academic/product assignment
+**Project:** Product Growth Case Study  
+**Program:** Airtribe — Product Management  
+**Role:** Product Manager (Case Study)  
+**Status:** Research and recommendation completed; solution not implemented  
+**Mentor evaluation:** 3.6/5
 
-## 1. Overview
+[Live prototype / demo: Not available]
 
-This case study explores opportunities to increase Average Order Value (AOV) in Zepto's quick-commerce experience while preserving customer convenience.
+---
+
+## 1. Executive Summary
+
+This case study investigates why Zepto customers place small, urgency-driven orders and explores how product changes could increase Average Order Value (AOV) without compromising the platform's promise of rapid delivery.
+
+The research combined 45 survey responses, 10 user interviews and secondary research.
+
+The central hypothesis is that ultra-fast delivery can encourage customers to split purchases across multiple orders instead of consolidating them into a single basket.
+
+**Recommendation:** Prioritize a One-Tap Pack Size Upgrade that offers a relevant larger pack directly within the cart or checkout journey.
+
+The solution is a product recommendation, not a deployed or experimentally validated feature.
 
 ## 2. Problem Statement
 
-How might Zepto encourage customers to add more value to their baskets without creating unnecessary friction or compromising the quick-commerce experience?
+### Business problem
 
-This is the working problem statement and should be aligned with the original assignment brief.
+Zepto's quick-commerce experience optimizes for speed and convenience. However, the same convenience may reduce customers' motivation to consolidate purchases, resulting in smaller baskets and potentially less efficient fulfillment.
 
-## 3. Target Users
+The research identified three reported behaviors:
 
-To be defined from the assignment's research and segmentation.
+- **Mission-based shopping:** Customers open the app intending to buy a specific item.
+- **Threshold ceiling:** Customers stop adding products after reaching the free-delivery threshold.
+- **Micro-order behavior:** Customers place multiple small orders because they can quickly order forgotten items later.
 
-## 4. Research and Insights
+### Core problem statement
 
-To be populated using the actual survey findings, interview notes and supporting evidence.
+How might Zepto increase basket value and encourage appropriate purchase consolidation without adding friction to the fast-shopping experience?
 
-## 5. Key Pain Points
+This framing is a hypothesis derived from the case study's research, not a verified conclusion about Zepto's overall customer base.
 
-To be identified from the research rather than assumed.
+## 3. Research Methodology
 
-## 6. Proposed Solutions
+| Method | Sample | Purpose |
+|---|---|---|
+| Online survey | 45 users | Identify shopping patterns and reported behaviors |
+| User interviews | 10 users | Understand motivations and barriers |
+| Secondary research | Multiple sources | Contextualize findings using industry information and app observation |
 
-To be populated from the original assignment and prioritized based on user value, business impact and implementation effort.
+The research focused on active users in Bengaluru's technology corridors, including HSR, Koramangala and Whitefield.
 
-## 7. Prioritization and Trade-offs
+### Research limitations
 
-To be documented using the framework and rationale applied in the assignment.
+- The sample is geographically and behaviorally limited.
+- The findings should not be generalized to all Zepto customers.
+- Interview quotations and detailed evidence need to be documented to substantiate qualitative claims.
+- Financial assumptions require traceable sources or calculations.
 
-## 8. Success Metrics
+## 4. Key Research Findings
 
-Potential primary metric: Average Order Value.
+### Finding 1: Mission-based shopping
 
-Supporting metrics and guardrails will be selected after reviewing the assignment, including measures to ensure that growth does not come at the expense of customer experience.
+**62.2%** of survey respondents were reported to open the app with a specific shopping mission.
 
-## 9. Limitations and Next Steps
+**Interpretation:** Customers prioritizing speed may be less likely to explore additional categories.
 
-Document research limitations, unvalidated assumptions and experiments that would be needed before implementation.
+**Product implication:** Offer relevant upgrades within the existing purchase flow rather than requiring extra browsing.
 
-## 10. Key Learnings
+### Finding 2: The free-delivery threshold ceiling
 
-To be completed after the assignment and mentor feedback have been reviewed.
+**77.8%** of respondents were reported to stop adding items after reaching the free-delivery threshold.
+
+**Interpretation:** The threshold may act as a stopping point instead of encouraging continued shopping.
+
+**Product implication:** Explore incentives that remain relevant after the initial threshold is reached.
+
+### Finding 3: The micro-order safety net
+
+**71.1%** of respondents were reported to place multiple small orders because they could quickly purchase forgotten items later.
+
+**Interpretation:** The underlying problem may be one intended basket split across multiple orders, rather than simply a lack of products in each basket.
+
+**Product implication:** Test whether appropriate pack-size upgrades can increase basket value without disrupting the user's immediate shopping mission.
+
+*These percentages are reported in the original assignment. The survey questionnaire, respondent-level data and detailed interview evidence should be retained to support further analysis.*
+
+## 5. User Segmentation
+
+The original assignment identifies four segments.
+
+| Segment | Observed or reported behavior | Proposed opportunity |
+|---|---|---|
+| Tech Worker | Urgent, mission-driven shopping | Relevant pack-size upgrades |
+| Threshold Planner | Stops shopping around the delivery threshold | Milestone-based rewards |
+| Routine Replenisher | Planned, recurring purchases | Cross-category recommendations |
+| Exploratory Shopper | Interest in premium or gourmet products | Contextual premium discovery |
+
+These are working segments from the assignment, not independently validated customer personas.
+
+### Initial target segment
+
+Prioritize mission-based shoppers for the first experiment.
+
+**Rationale:** The recommended intervention can appear in the existing cart or checkout flow, preserving the speed-oriented behavior identified in the research.
+
+## 6. Proposed Product Solutions
+
+### Solution A: One-Tap Pack Size Upgrade
+
+Offer a relevant larger pack when a customer adds a smaller pack.
+
+**Example:** When a customer adds 500 ml of milk, offer a 1-litre pack as an alternative.
+
+**Expected benefit:**
+- Increase average item value.
+- Reduce the need for additional browsing.
+- Preserve the existing checkout journey.
+
+**Primary risk:** A larger pack may not fit the customer's immediate need, household size, budget or consumption pattern.
+
+The upgrade should be optional, contextually relevant and easy to dismiss.
+
+### Solution B: Multi-Tier Milestone Rewards
+
+Introduce additional incentives beyond the existing free-delivery threshold.
+
+Examples from the assignment include a reward around ₹349 and cashback around ₹499.
+
+**Expected benefit:** Encourage customers who respond to incentives to continue building their baskets.
+
+**Risks:** Incentive costs, margin dilution and the possibility of encouraging unnecessary purchases.
+
+### Solution C: Contextual Mission Kits
+
+Offer curated bundles such as a late-night study kit based on shopping context.
+
+**Expected benefit:** Simplify discovery and encourage relevant cross-category purchases.
+
+**Risks:** Poorly matched bundles may create decision fatigue or irrelevant recommendations.
+
+## 7. Prioritization — RICE Framework
+
+The original assignment scores the three solutions as follows.
+
+| Solution | Reach | Impact | Confidence | Effort | RICE score |
+|---|---:|---:|---:|---:|---:|
+| One-Tap Pack Size Upgrade | 9 | 9 | 8 | 4 | 162 |
+| Milestone Rewards | 8 | 8 | 7 | 6 | 74.7 |
+| Contextual Mission Kits | 5 | 7 | 6 | 8 | 26.3 |
+
+Formula used:
+
+**RICE = (Reach × Impact × Confidence) / Effort**
+
+### Why Pack Size Upgrade was selected
+
+- It targets customers during an existing purchase journey.
+- It requires less additional discovery effort from the customer.
+- It is designed to fit into the existing cart or checkout experience.
+- Its estimated implementation effort is lower than the alternatives.
+
+### Prioritization limitations
+
+The RICE inputs are estimates from the original assignment, not measured values.
+
+Before making an implementation decision, define what a score of 9 in reach or impact represents, explain the confidence estimates and effort units, and justify the scores for the alternatives with equal rigor.
+
+The ranking should be treated as a preliminary decision, not proof that the winning solution will produce the greatest business impact.
+
+## 8. Proposed Experiment
+
+The following experiment is a proposed next step, not an experiment conducted during the assignment.
+
+### Hypothesis
+
+Offering a relevant, optional larger pack at the cart or checkout stage will increase AOV without materially harming conversion or customer experience.
+
+### Experiment design
+
+Compare two eligible customer groups:
+
+- **Control:** Existing shopping and checkout experience.
+- **Treatment:** Existing experience with an optional One-Tap Pack Size Upgrade.
+
+Randomize eligible users and run the experiment for a period determined by the required sample size and normal purchase cycles.
+
+### Metrics
+
+**Primary metric**
+- Average Order Value (AOV): average completed order value per order.
+
+**Supporting metrics**
+- Average item value.
+- Items per order.
+- Pack-upgrade acceptance rate.
+- Contribution margin per order.
+
+**Guardrail metrics**
+- Checkout completion rate.
+- Cart abandonment rate.
+- Checkout time.
+- Customer satisfaction and upgrade-related complaints.
+
+### Decision criteria
+
+Proceed only if the experiment demonstrates a meaningful improvement in AOV or contribution margin while meeting predefined guardrail limits.
+
+Set the minimum detectable effect, sample size, experiment duration and decision thresholds before launch.
+
+## 9. Risks and Trade-offs
+
+| Risk | Mitigation |
+|---|---|
+| Larger packs do not fit the user's needs | Show relevant, optional alternatives |
+| Higher AOV comes with lower margins | Measure contribution margin, not AOV alone |
+| Upsell prompts slow checkout | Track checkout time and completion |
+| Discounts increase costs | Evaluate incremental margin after incentives |
+| Findings do not generalize | Test across relevant customer segments |
+
+A higher AOV does not automatically mean higher profitability. Incremental revenue, product margins, incentive costs and fulfillment economics must be evaluated together.
+
+## 10. Mentor Feedback and Iteration
+
+The mentor evaluation gave the assignment a final score of **3.6/5**.
+
+### Strengths identified
+
+- The micro-order safety-net insight offers a distinctive explanation of the problem.
+- One-Tap Pack Size Upgrade is directly connected to the reported user behavior.
+- The visual before-and-after upgrade example makes the recommendation easier to understand.
+- The core problem framing identifies a possible cause upstream of other symptoms.
+
+### Areas to improve
+
+- Include interview quotations or traceable evidence from the ten interviews.
+- Explain the sample's bias toward Bengaluru professionals.
+- Justify the RICE scores for all proposed solutions.
+- Define confidence and effort scales.
+- Provide sources or calculations for financial assumptions such as the reported ₹19 last-mile loss and ₹580+ breakeven target.
+- Make order splitting the central problem rather than a supporting observation.
+- Document the failure case where a larger pack does not fit a customer's needs.
+
+### What I would improve next
+
+1. Review interview notes and add anonymized, attributable evidence.
+2. Reconcile each major claim with the survey data or an external source.
+3. Rework the RICE scoring rubric and explain every score.
+4. Define the upgrade's eligibility rules and failure cases.
+5. Prepare an experiment plan with measurable decision criteria.
+
+## 11. Key Learnings
+
+- Convenience can create unintended behavioral trade-offs.
+- A product intervention should fit the user's existing workflow.
+- A strong recommendation requires evidence that supports both the problem and the proposed mechanism.
+- Prioritization frameworks are only as reliable as their scoring assumptions.
+- AOV should be evaluated alongside contribution margin and customer-experience guardrails.
+
+## 12. Project Links and Evidence
+
+- **Assignment report:** Maintained separately from this repository.
+- **Presentation deck:** Maintained separately from this repository.
+- **Mentor feedback:** Final score 3.6/5; detailed feedback informed the improvement plan.
+
+This case study documents research, product reasoning and a proposed solution. It does not claim that the feature was implemented, deployed or shown to improve Zepto's business metrics.
