@@ -231,14 +231,35 @@ These explanations describe the original product hypotheses; they do not validat
 
 The ranking should be treated as a directional hypothesis, not proof that the highest-scoring solution will produce the greatest business impact.
 
-### Why Pack Size Upgrade was selected
+### RICE Scoring Rubric
+
+The original RICE scores are preliminary estimates, not measured business outcomes.
+
+| Dimension | Proposed scoring approach |
+|---|---|
+| Reach (1–10) | Relative estimate of target customers exposed to the solution during a defined period. |
+| Impact (1–10) | Expected effect on AOV and the target customer behavior. |
+| Confidence (1–10) | Confidence in the reach and impact estimates, based on available evidence. |
+| Effort (1–10) | Relative implementation effort; higher scores indicate greater effort. |
+
+### Rationale for the Original Scores
+
+| Solution | Original score | Rationale | Key uncertainty |
+|---|---:|---|---|
+| One-Tap Pack Size Upgrade | 162 | Fits into the existing cart journey and aims to increase item value without additional browsing. | Eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
+| Multi-Tier Milestone Rewards | 74.7 | Aims to encourage additional spending among customers who respond to incentives. | Incremental spending, reward costs and contribution margin impact are unknown. |
+| Contextual Mission Kits | 26.3 | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation effort are unvalidated. |
+
+These explanations describe the original product hypotheses; they do not validate the numerical inputs.
+
+### Why Pack Size Upgrade Was Selected
 
 - It targets customers during an existing purchase journey.
 - It requires less additional discovery effort from the customer.
 - It is designed to fit into the existing cart or checkout experience.
 - Its estimated implementation effort is lower than the alternatives.
 
-[### Proposed Eligibility Rules
+### Proposed Eligibility Rules
 
 The upgrade should appear only when it is likely to offer meaningful value to the customer.
 
@@ -258,59 +279,17 @@ The upgrade should appear only when it is likely to offer meaningful value to th
 
 **Validation needed:** Test whether these rules improve upgrade acceptance and AOV without harming checkout completion, contribution margin or customer satisfaction.
 
-These are proposed product requirements, not implemented functionality.](https://github.com/kiranskk2797/product-management-portfolio/blob/main/01-product-discovery/zepto-aov/README.md)
+These are proposed product requirements, not implemented functionality.
 
-### RICE Scoring Rubric and Score Rationale
+### Prioritization Limitations
 
-The original RICE scores are preliminary estimates from the assignment, not measured business outcomes. The rubric below clarifies how the dimensions should be interpreted.
-
-| Dimension | Scoring approach |
-|---|---|
-| Reach (1–10) | Relative estimate of the target customers exposed to the solution during a defined period. |
-| Impact (1–10) | Expected effect on AOV and the target customer behavior. |
-| Confidence (1–10) | Confidence in the reach and impact estimates, based on available evidence. |
-| Effort (1–10) | Relative implementation effort; higher scores indicate greater effort. |
-
-#### Rationale for the original scores
-
-| Solution | Original RICE score | Initial rationale | Key uncertainty |
-|---|---:|---|---|
-| One-Tap Pack Size Upgrade | 162 | Designed to reach eligible customers during an existing purchase journey, with limited additional browsing. | Actual eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
-| Multi-Tier Milestone Rewards | 74.7 | Targets customers who may respond to incentives to increase basket value. | Incremental spending, reward cost and contribution margin impact are unknown. |
-| Contextual Mission Kits | 26.3 | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation complexity are unvalidated. |
-
-These explanations describe the initial product hypotheses; they do not independently validate the numerical scores. The original assignment does not contain sufficient evidence to establish that every score is accurate.
-
-### RICE Scoring Rubric and Score Rationale
-
-The original RICE scores are preliminary estimates from the assignment, not measured business outcomes. The rubric below clarifies how the dimensions should be interpreted.
-
-| Dimension | Scoring approach |
-|---|---|
-| Reach (1–10) | Relative estimate of the target customers exposed to the solution during a defined period. |
-| Impact (1–10) | Expected effect on AOV and the target customer behavior. |
-| Confidence (1–10) | Confidence in the reach and impact estimates, based on available evidence. |
-| Effort (1–10) | Relative implementation effort; higher scores indicate greater effort. |
-
-#### Rationale for the original scores
-
-| Solution | Original RICE score | Initial rationale | Key uncertainty |
-|---|---:|---|---|
-| One-Tap Pack Size Upgrade | 162 | Designed to reach eligible customers during an existing purchase journey, with limited additional browsing. | Actual eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
-| Multi-Tier Milestone Rewards | 74.7 | Targets customers who may respond to incentives to increase basket value. | Incremental spending, reward cost and contribution margin impact are unknown. |
-| Contextual Mission Kits | 26.3 | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation complexity are unvalidated. |
-
-These explanations describe the initial product hypotheses; they do not independently validate the numerical scores. The original assignment does not contain sufficient evidence to establish that every score is accurate.
-
-#### Prioritization limitations
-
-Before making an implementation decision:
+The RICE inputs are estimates from the original assignment, not measured values. Before making an implementation decision:
 
 - Estimate reach using product data and defined eligibility criteria.
 - Support impact estimates with research or experiment results.
 - Document the evidence behind each confidence score.
 - Validate effort estimates with the engineering and design teams.
-- Apply the same scoring definitions to all three solutions.
+- Apply consistent scoring definitions to all three solutions.
 
 The current ranking should be treated as a directional hypothesis, not proof that the highest-scoring solution will produce the greatest business impact.
 ## 8. Proposed Experiment
