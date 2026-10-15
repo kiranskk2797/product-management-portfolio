@@ -179,7 +179,7 @@ The current ranking should therefore be treated as a directional hypothesis, not
 - Its estimated implementation effort is lower than the alternatives.
 
 
-### Proposed Eligibility Rules
+[### Proposed Eligibility Rules
 
 The upgrade should appear only when it is likely to offer meaningful value to the customer.
 
@@ -199,7 +199,7 @@ The upgrade should appear only when it is likely to offer meaningful value to th
 
 **Validation needed:** Test whether these rules improve upgrade acceptance and AOV without harming checkout completion, contribution margin or customer satisfaction.
 
-These are proposed product requirements, not implemented functionality.
+These are proposed product requirements, not implemented functionality.](https://github.com/kiranskk2797/product-management-portfolio/blob/main/01-product-discovery/zepto-aov/README.md)
 
 ### Prioritization limitations
 
