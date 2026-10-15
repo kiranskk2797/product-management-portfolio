@@ -208,6 +208,29 @@ Before using these scores to make an implementation decision, validate reach usi
 
 The current ranking should therefore be treated as a directional hypothesis, not a validated investment decision.
 
+### RICE Scoring Rubric
+
+The original RICE scores are preliminary estimates, not measured business outcomes.
+
+| Dimension | Proposed scoring approach |
+|---|---|
+| Reach (1–10) | Relative estimate of target customers exposed to the solution during a defined period. |
+| Impact (1–10) | Expected effect on AOV and the target customer behavior. |
+| Confidence (1–10) | Confidence in the reach and impact estimates, based on available evidence. |
+| Effort (1–10) | Relative implementation effort; higher scores indicate greater effort. |
+
+### Rationale for the Original Scores
+
+| Solution | Original score | Rationale | Key uncertainty |
+|---|---:|---|---|
+| One-Tap Pack Size Upgrade | 162 | Fits into the existing cart journey and aims to increase item value without additional browsing. | Eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
+| Multi-Tier Milestone Rewards | 74.7 | Aims to encourage additional spending among customers who respond to incentives. | Incremental spending, reward costs and contribution margin impact are unknown. |
+| Contextual Mission Kits | 26.3 | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation effort are unvalidated. |
+
+These explanations describe the original product hypotheses; they do not validate the numerical inputs. Before making an implementation decision, use product data to estimate reach, research or experiments to assess impact, evidence to justify confidence, and delivery-team estimates to assess effort.
+
+The ranking should be treated as a directional hypothesis, not proof that the highest-scoring solution will produce the greatest business impact.
+
 ### Why Pack Size Upgrade was selected
 
 - It targets customers during an existing purchase journey.
