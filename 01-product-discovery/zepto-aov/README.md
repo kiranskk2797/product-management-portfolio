@@ -362,3 +362,4 @@ These revisions improve transparency and product reasoning, but they do not repl
 - **Prototype:** Not available.
 
 This case study documents research findings as reported in the original assignment, product reasoning and a proposed solution. It does not claim that the feature was implemented, deployed or shown to improve Zepto's business metrics.
+
