@@ -154,7 +154,7 @@ The original assignment scores the three proposed solutions as follows.
 
 ### RICE Scoring Rubric
 
-The original scores are preliminary estimates, not measured business outcomes.
+The scores are preliminary estimates, not measured business outcomes.
 
 | Dimension | Proposed scoring approach |
 |---|---|
@@ -213,6 +213,7 @@ The RICE inputs are estimates from the original assignment, not measured values.
 - Apply consistent scoring definitions to all three solutions.
 
 The current ranking should be treated as a directional hypothesis, not proof that the highest-scoring solution will produce the greatest business impact.
+
 ## 8. Proposed Experiment
 
 The following experiment is a proposed next step, not an experiment conducted during the assignment.
