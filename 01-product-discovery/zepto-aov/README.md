@@ -154,6 +154,31 @@ Formula used:
 
 **RICE = (Reach × Impact × Confidence) / Effort**
 
+### RICE Scoring Rubric and Score Rationale
+
+The original RICE scores are preliminary estimates, not measured business outcomes. The rubric below clarifies how the dimensions should be interpreted.
+
+| Dimension | Scoring approach |
+|---|---|
+| Reach (1–10) | Relative estimate of the target customers exposed to the solution during a defined period. |
+| Impact (1–10) | Expected effect on AOV and the target customer behavior. |
+| Confidence (1–10) | Confidence in the reach and impact estimates, based on available evidence. |
+| Effort (1–10) | Relative implementation effort; higher scores indicate greater effort. |
+
+#### Rationale for the original scores
+
+| Solution | Original RICE score | Initial rationale | Key uncertainty |
+|---|---:|---|---|
+| One-Tap Pack Size Upgrade | 162 | Designed to reach eligible customers during an existing purchase journey, with limited additional browsing. | Actual eligible reach, upgrade acceptance, AOV impact and engineering effort are unknown. |
+| Multi-Tier Milestone Rewards | 74.7 | Targets customers who may respond to incentives to increase basket value. | Incremental spending, reward cost and contribution margin impact are unknown. |
+| Contextual Mission Kits | 26.3 | Offers relevant bundles that may encourage cross-category purchases. | Customer demand, bundle adoption and implementation complexity are unvalidated. |
+
+These explanations describe the initial product hypotheses; they do not independently validate the numerical scores.
+
+Before making an implementation decision, estimate reach using product data, support impact estimates with research or experiments, document the evidence behind confidence scores, and validate effort with the engineering and design teams.
+
+Apply the same scoring definitions to all three solutions. Treat the current ranking as a directional hypothesis, not proof that the highest-scoring solution will produce the greatest business impact.
+
 ### RICE Score Rationale
 
 The following rationale explains the initial scoring hypotheses. These explanations are product judgments based on the proposed solution designs, not validated estimates from Zepto's internal data.
