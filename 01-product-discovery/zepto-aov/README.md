@@ -154,6 +154,18 @@ Formula used:
 
 **RICE = (Reach × Impact × Confidence) / Effort**
 
+### RICE Score Rationale
+
+The following rationale explains the initial scoring hypotheses. These explanations are product judgments based on the proposed solution designs, not validated estimates from Zepto's internal data.
+
+| Solution | Reach rationale | Impact rationale | Confidence rationale | Effort rationale |
+|---|---|---|---|---|
+| One-Tap Pack Size Upgrade | Score 9: Proposed for eligible customers already adding a product to their cart. Actual eligible reach requires product data. | Score 9: Expected to increase item value without requiring customers to browse additional categories. The effect on AOV remains untested. | Score 8: The solution aligns with the reported mission-shopping behavior, but the research does not establish its actual conversion or AOV impact. | Score 4: Assumed to require a relatively contained cart or checkout change. Engineering effort has not been estimated with a delivery team. |
+| Multi-Tier Milestone Rewards | Score 8: Intended to reach customers approaching or passing spending thresholds. Actual exposure depends on basket distribution and eligibility rules. | Score 8: Expected to encourage additional spending among customers responsive to incentives. Incremental AOV and margin impact are unknown. | Score 7: The reported threshold behavior supports investigating this solution, but does not establish that additional rewards will change behavior profitably. | Score 6: Assumed to require reward logic, eligibility rules and financial monitoring. Actual implementation effort remains unestimated. |
+| Contextual Mission Kits | Score 5: Expected to be relevant to a narrower set of shopping contexts than the other solutions. Actual reach is unknown. | Score 7: Could encourage relevant cross-category purchases, but the effect depends on bundle relevance and customer adoption. | Score 6: The concept is plausible, but the assignment does not establish demand or likely adoption through an experiment. | Score 8: Assumed to require more merchandising, bundle configuration and contextual relevance work. Actual implementation effort remains unestimated. |
+
+**Important limitation:** These explanations make the assumptions explicit; they do not independently validate the original scores. The Reach, Impact, Confidence and Effort values should be reassessed using a consistent scoring scale, product data, user evidence and engineering estimates before an implementation decision.
+
 ### RICE Scoring Rubric
 
 The scores below are preliminary estimates for comparing the three proposed solutions. They are not measured business outcomes.
