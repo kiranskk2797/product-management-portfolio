@@ -53,3 +53,26 @@ Deployed prototype available for demonstration. User validation, commercial laun
 
 ## Key Learning
 This project provided practical experience translating an assignment brief into a frontend product prototype.
+
+
+## Prototype Screenshots
+
+### Homepage and Search
+![Vijaya Stays homepage and search](screenshots/homepage-search.jpeg)
+
+### Accommodation Listings
+![Stay listings with property cards and filters](screenshots/stay-listings.jpeg)
+
+### Property Details
+![Property details and availability action](screenshots/property-details.jpeg)
+
+### Stay Categories
+![Stay categories and featured properties](screenshots/stay-categories.jpeg)
+
+### Hampi Experiences
+![Hampi experiences and trip discovery](screenshots/hampi-experiences.jpeg)
+
+## Live Prototype
+
+[Explore Vijaya Stays](https://vijaya-stays.vercel.app/)
+
