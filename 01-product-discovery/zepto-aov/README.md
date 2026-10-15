@@ -6,7 +6,7 @@
 **Status:** Research and recommendation completed; solution not implemented  
 **Mentor evaluation:** 3.6/5
 
-**Live prototype / demo:** Not available
+**Interactive prototype / demo:** [Explore the Claude Artifact](https://claude.ai/artifact/2EwH44Rsbb6oZ3qg6sNW1Q) — independent portfolio concept; not affiliated with or released by Zepto.
 
 ---
 
@@ -344,7 +344,45 @@ The original mentor feedback identified the following areas for improvement:
 
 These revisions improve transparency and product reasoning, but they do not replace the missing underlying evidence or validate the proposed solution.
 
-## 11. Key Learnings
+## 11. Visual Prototype
+
+### One-Tap Pack Size Upgrade
+
+**Interactive prototype:** [Explore the Claude Artifact](https://claude.ai/artifact/2EwH44Rsbb6oZ3qg6sNW1Q)
+
+This interactive concept demonstrates how an optional pack-size upgrade could appear in the cart and checkout journey. It is an independent portfolio concept and is not affiliated with or released by Zepto.
+
+### Original Cart and Recommendation
+
+The customer sees the current pack and a suggested larger pack, including the displayed price and price-per-litre comparison. The recommendation remains optional.
+
+### Updated Cart
+
+Accepting the upgrade changes the milk selection from 500 ml to 1 litre and updates the cart total. The customer can undo the change.
+
+### Checkout
+
+The checkout displays the selected products, illustrative fees and total payable before the customer confirms the simulated order.
+
+### Demo Confirmation
+
+The confirmation screen demonstrates the end-to-end prototype flow. No real order is placed and no payment is processed.
+
+### Product Design Decisions
+
+- **Optional upgrade:** The customer must explicitly accept the recommendation.
+- **Transparent pricing:** Both pack sizes and their unit prices are visible before the decision.
+- **Customer control:** The customer can retain the original pack, dismiss the recommendation or reverse the upgrade.
+- **Clear checkout:** The selected product, fees and total are shown before the simulated order confirmation.
+- **Experiment readiness:** The concept can be evaluated against the existing cart experience using a controlled experiment.
+
+**Prototype status:** Interactive concept completed. The feature has not been implemented in Zepto, and no live experiment or business impact is claimed. All prototype prices and fees are illustrative placeholders, not verified Zepto offers.
+
+### Proposed Evaluation
+
+Measure average order value as the primary outcome, while monitoring checkout completion, cart abandonment, customer experience and contribution margin per order. Experiment thresholds, sample size and duration should be determined using baseline data before testing.
+
+## 12. Key Learnings
 
 - Convenience can create unintended behavioral trade-offs.
 - A product intervention should fit the user's existing workflow.
@@ -354,12 +392,12 @@ These revisions improve transparency and product reasoning, but they do not repl
 - Research limitations should be documented rather than hidden.
 - A proposed experiment should define its metrics and decision criteria before launch.
 
-## 12. Project Links and Evidence
+## 13. Project Links and Evidence
 
 - **Assignment report:** Maintained separately from this repository.
 - **Presentation deck:** Maintained separately from this repository.
 - **Mentor feedback:** Final score 3.6/5; detailed feedback informed the improvement plan.
-- **Prototype:** Not available.
+- **Interactive prototype:** [One-Tap Pack Size Upgrade — Claude Artifact](https://claude.ai/artifact/2EwH44Rsbb6oZ3qg6sNW1Q). This is an independent portfolio concept, not an implemented Zepto feature.
 
 This case study documents research findings as reported in the original assignment, product reasoning and a proposed solution. It does not claim that the feature was implemented, deployed or shown to improve Zepto's business metrics.
 
