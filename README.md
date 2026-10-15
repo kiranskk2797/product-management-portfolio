@@ -51,7 +51,7 @@ My focus is on identifying meaningful user problems, evaluating solutions with c
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/kiran-kumar-s-b3ab12228)
+- [LinkedIn](https://www.linkedin.com/in/kirankumar-s-b3ab12228)
 - [GitHub](https://github.com/kiranskk2797)
 
 *This portfolio contains independent case studies and prototypes. Proposed concepts and illustrative metrics should not be interpreted as verified company results.*
