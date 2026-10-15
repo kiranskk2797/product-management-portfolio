@@ -72,6 +72,46 @@ This project provided practical experience translating an assignment brief into 
 ### Hampi Experiences
 ![Hampi experiences and trip discovery](screenshots/hampi-experiences.jpeg)
 
+
+## Product Thinking and Trade-offs
+
+### Target Users
+- Travelers planning a visit to Hampi.
+- Travelers comparing different accommodation categories.
+- Visitors interested in combining stays with local experiences.
+
+These are proposed user segments that require validation.
+
+### Product Decisions
+
+**1. Search-first homepage**
+Placed destination and stay-date inputs prominently to give travelers a clear starting point.
+
+**2. Category-based discovery**
+Included categories such as heritage, homestays, resorts, budget and premium to support different discovery preferences.
+
+**3. Scannable property cards**
+Displayed property names, locations, indicative prices and ratings to help users compare options.
+
+**4. Stay and experience discovery**
+Included Hampi experiences alongside accommodation discovery to support broader trip planning.
+
+### Trade-offs and Limitations
+- The prototype prioritizes discovery over a complete booking transaction.
+- Prices and ratings are indicative and require verification.
+- No claims are made about validated user needs, conversion improvements or business outcomes.
+
+### Proposed Success Metrics
+
+| Metric | What it measures |
+|---|---|
+| Search-to-detail click-through rate | Whether listings attract user interest |
+| Availability-check rate | Whether users progress toward booking |
+| Filter usage rate | Whether users use filters to narrow choices |
+| Task completion rate | Whether users can find suitable stays during usability testing |
+
+These metrics are proposed for future testing; no production analytics are currently claimed.
+
 ## Live Prototype
 
 [Explore Vijaya Stays](https://vijaya-stays.vercel.app/)
