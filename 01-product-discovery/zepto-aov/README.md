@@ -161,6 +161,29 @@ Formula used:
 - It is designed to fit into the existing cart or checkout experience.
 - Its estimated implementation effort is lower than the alternatives.
 
+
+### Proposed Eligibility Rules
+
+The upgrade should appear only when it is likely to offer meaningful value to the customer.
+
+**Show the upgrade when:**
+- A relevant larger pack of the same product is available.
+- The larger pack offers a clear unit-price advantage or another understandable benefit.
+- The customer can see the total price before accepting.
+- The recommendation does not require leaving the current shopping flow.
+
+**Do not show the upgrade when:**
+- The larger pack is unavailable.
+- The customer has explicitly dismissed the same recommendation.
+- The larger quantity is unlikely to suit the shopping context.
+- The upgrade introduces unnecessary friction into checkout.
+
+**Customer control:** The upgrade remains optional. The original selection must be easy to retain, and the customer must be able to dismiss the recommendation.
+
+**Validation needed:** Test whether these rules improve upgrade acceptance and AOV without harming checkout completion, contribution margin or customer satisfaction.
+
+These are proposed product requirements, not implemented functionality.
+
 ### Prioritization limitations
 
 The RICE inputs are estimates from the original assignment, not measured values.
