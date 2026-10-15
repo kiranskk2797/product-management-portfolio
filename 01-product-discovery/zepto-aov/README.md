@@ -354,17 +354,33 @@ This interactive concept demonstrates how an optional pack-size upgrade could ap
 
 ### Original Cart and Recommendation
 
+
+![Original cart with pack-size upgrade recommendation](zepto-aov-cart.png)
+
+
 The customer sees the current pack and a suggested larger pack, including the displayed price and price-per-litre comparison. The recommendation remains optional.
 
 ### Updated Cart
+
+
+![Cart after accepting the pack-size upgrade](zepto-aov-upgraded-cart.jpeg)
+
 
 Accepting the upgrade changes the milk selection from 500 ml to 1 litre and updates the cart total. The customer can undo the change.
 
 ### Checkout
 
+
+![Checkout screen showing the updated order total](zepto-aov-checkout.png)
+
+
 The checkout displays the selected products, illustrative fees and total payable before the customer confirms the simulated order.
 
 ### Demo Confirmation
+
+
+![Simulated order confirmation](zepto-aov-confirmation.jpeg)
+
 
 The confirmation screen demonstrates the end-to-end prototype flow. No real order is placed and no payment is processed.
 
