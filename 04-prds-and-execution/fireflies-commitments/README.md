@@ -4,7 +4,7 @@
 
 A meeting ends with “I’ll follow up.” What happens if the person named in the recap understood the conversation differently? This capstone explores how a team could confirm ownership and record what happened to a commitment inside Fireflies Tasks.
 
-[Capstone presentation](./presentation.pdf)
+[Capstone presentation](./presentation.pdf) · [Prototype repository](https://github.com/kiranskk2797/Fireflies-ai-capstone)
 
 ## Product decision
 
