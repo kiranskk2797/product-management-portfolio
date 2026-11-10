@@ -29,7 +29,7 @@ Explores how an optional pack-size upgrade could encourage customers to consolid
 
 An independent capstone exploring how meeting participants could confirm ownership, hand work over, and record an explicit outcome. Includes a mini PRD, prototype audit, and plan to test whether more commitments reach resolution within 14 days.
 
-[Read the case study](./04-prds-and-execution/fireflies-commitments/README.md) · [View the presentation](./04-prds-and-execution/fireflies-commitments/presentation.pdf)
+[Read the case study](./04-prds-and-execution/fireflies-commitments/README.md) · [View the presentation](./04-prds-and-execution/fireflies-commitments/presentation.pdf) · [Prototype repository](https://github.com/kiranskk2797/Fireflies-ai-capstone)
 
 ## Product Management Skills
 
