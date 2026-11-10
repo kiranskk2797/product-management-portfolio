@@ -31,6 +31,12 @@ An independent capstone exploring how meeting participants could confirm ownersh
 
 [Read the case study](./04-prds-and-execution/fireflies-commitments/README.md) · [View the presentation](./04-prds-and-execution/fireflies-commitments/presentation.pdf) · [Prototype repository](https://github.com/kiranskk2797/Fireflies-ai-capstone)
 
+### 3. Vijaya Stays — Planning a trip to Hampi
+
+Travelers can explore places to stay and nearby attractions, save a shortlist, and build a trip plan using sample data. The assignment documents the prototype’s design system, an AI-assisted design review, and checks for errors in attraction listings.
+
+[Read the assignment report](https://github.com/kiranskk2797/vijaya-stays/blob/HEAD/reports/Vijaya-Stays-Airtribe-Assignment-Report.pdf) · [Explore the prototype repository](https://github.com/kiranskk2797/vijaya-stays)
+
 ## Product Management Skills
 
 - **Product Discovery:** Problem framing, user research, opportunity identification
