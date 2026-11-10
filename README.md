@@ -23,6 +23,14 @@ Explores how an optional pack-size upgrade could encourage customers to consolid
 
 *Independent portfolio concept. Not affiliated with or released by Zepto. Proposed solution; not experimentally validated.*
 
+### 2. Fireflies.ai — From Meeting Commitments to Honest Closure
+
+**Category:** Product Execution & Measurement
+
+An independent capstone exploring how meeting participants could confirm ownership, hand work over, and record an explicit outcome. Includes a mini PRD, prototype audit, and plan to test whether more commitments reach resolution within 14 days.
+
+[Read the case study](./04-prds-and-execution/fireflies-commitments/README.md) · [View the presentation](./04-prds-and-execution/fireflies-commitments/presentation.pdf)
+
 ## Product Management Skills
 
 - **Product Discovery:** Problem framing, user research, opportunity identification
