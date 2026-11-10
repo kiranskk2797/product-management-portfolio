@@ -35,7 +35,7 @@ An independent capstone exploring how meeting participants could confirm ownersh
 
 Travelers can explore places to stay and nearby attractions, save a shortlist, and build a trip plan using sample data. The assignment documents the prototype’s design system, an AI-assisted design review, and checks for errors in attraction listings.
 
-[Read the assignment report](https://github.com/kiranskk2797/vijaya-stays/blob/HEAD/reports/Vijaya-Stays-Airtribe-Assignment-Report.pdf) · [Explore the prototype repository](https://github.com/kiranskk2797/vijaya-stays)
+[Open the live Vijaya Stays prototype](https://vijaya-stays.vercel.app/) · [Read the assignment report](https://github.com/kiranskk2797/vijaya-stays/blob/HEAD/reports/Vijaya-Stays-Airtribe-Assignment-Report.pdf) · [Explore the prototype repository](https://github.com/kiranskk2797/vijaya-stays)
 
 ## Product Management Skills
 
